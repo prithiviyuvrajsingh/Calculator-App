@@ -25,3 +25,6 @@ A simple and responsive calculator built using ReactJS.
 npm install
 npm start
 ```
+git add README.md
+git commit -m "Added README"
+git push
